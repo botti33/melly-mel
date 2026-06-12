@@ -1,0 +1,6 @@
+{
+  "name": "Mel's Journal",
+  "description": "A warm, living digital sketchbook and emotional journal where your drawing pages and daily reflections grow and evolve together.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
